@@ -1,0 +1,1491 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="LA_1">
+    <display-name lang="es">LA 1</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="LA 1">
+    <display-name lang="es">LA 1</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="ES:LA_1">
+    <display-name lang="es">LA 1</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <programme start="20190119060000 +0000" stop="20190119094500 +0000" channel="LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119094500 +0000" stop="20190119105000 +0000" channel="LA_1">
+    <title lang="es">Comando Actualidad: Cada vez más gordos</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119105000 +0000" stop="20190119133000 +0000" channel="LA_1">
+    <title lang="es">MasterChef Junior: Final</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190119133000 +0000" stop="20190119140000 +0000" channel="LA_1">
+    <title lang="es">Audiencia abierta</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119140000 +0000" stop="20190119143000 +0000" channel="LA_1">
+    <title lang="es">Flash Moda</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190119143000 +0000" stop="20190119150000 +0000" channel="LA_1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190119150000 +0000" stop="20190119155000 +0000" channel="LA_1">
+    <title lang="es">Telediario 1 Fin de Semana</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119155000 +0000" stop="20190119160000 +0000" channel="LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119160000 +0000" stop="20190119173000 +0000" channel="LA_1">
+    <title lang="es">Un verano en Mallorca</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190119173000 +0000" stop="20190119190000 +0000" channel="LA_1">
+    <title lang="es">Boda en Hardingsholm</title>
+    <category lang="es">Telefilme</category>
+  </programme>
+  <programme start="20190119190000 +0000" stop="20190119210000 +0000" channel="LA_1">
+    <title lang="es">La decente</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190119210000 +0000" stop="20190119212500 +0000" channel="LA_1">
+    <title lang="es">Telediario 2 Fin de Semana</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119212500 +0000" stop="20190119213000 +0000" channel="LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119213000 +0000" stop="20190119220500 +0000" channel="LA_1">
+    <title lang="es">Informe Semanal: Episodio 629</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119220500 +0000" stop="20190119232000 +0000" channel="LA_1">
+    <title lang="es">14 de abril: La República (T2): Ep.14 Grandes esperanzas</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190119232000 +0000" stop="20190120003000 +0000" channel="LA_1">
+    <title lang="es">14 de abril: La República (T2): Ep.15 Hacia una vida nueva</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190120003000 +0000" stop="20190120021000 +0000" channel="LA_1">
+    <title lang="es">Prim, el asesinato de la calle del Turco</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190120021000 +0000" stop="20190120033500 +0000" channel="LA_1">
+    <title lang="es">Unas vacaciones perfectas</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190120033500 +0000" stop="20190120060000 +0000" channel="LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120060000 +0000" stop="20190120093500 +0000" channel="LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120093500 +0000" stop="20190120101000 +0000" channel="LA_1">
+    <title lang="es">Arranca en verde: Ciudad Real</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190120101000 +0000" stop="20190120111000 +0000" channel="LA_1">
+    <title lang="es">Comando Actualidad: Nuevos barrios, nuevos vecinos</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120111000 +0000" stop="20190120140000 +0000" channel="LA_1">
+    <title lang="es">Maestros de la Costura: Episodio 1</title>
+    <category lang="es">Cultural/Educativo</category>
+  </programme>
+  <programme start="20190120140000 +0000" stop="20190120143000 +0000" channel="LA_1">
+    <title lang="es">Flash Moda</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190120143000 +0000" stop="20190120150000 +0000" channel="LA_1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190120150000 +0000" stop="20190120155000 +0000" channel="LA_1">
+    <title lang="es">Telediario 1 Fin de Semana</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120155000 +0000" stop="20190120160000 +0000" channel="LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120160000 +0000" stop="20190120173000 +0000" channel="LA_1">
+    <title lang="es">Enemigas íntimas</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190120173000 +0000" stop="20190120190000 +0000" channel="LA_1">
+    <title lang="es">Nadando hacia la libertad</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190120190000 +0000" stop="20190120203000 +0000" channel="LA_1">
+    <title lang="es">Un misterio para Aurora Teagarden: Un diseño mortal</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190120203000 +0000" stop="20190120210000 +0000" channel="LA_1">
+    <title lang="es">Aquí la Tierra</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190120210000 +0000" stop="20190120215500 +0000" channel="LA_1">
+    <title lang="es">Telediario 2 Fin de Semana</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120215500 +0000" stop="20190120220500 +0000" channel="LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120220500 +0000" stop="20190121001500 +0000" channel="LA_1">
+    <title lang="es">Operación Triunfo: Especial Eurovisión</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121001500 +0000" stop="20190121020500 +0000" channel="LA_1">
+    <title lang="es">Hitch: Especialista en ligues</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190121020500 +0000" stop="20190121033500 +0000" channel="LA_1">
+    <title lang="es">Caminos secundarios</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190121033500 +0000" stop="20190121060000 +0000" channel="LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121060000 +0000" stop="20190121063000 +0000" channel="LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121063000 +0000" stop="20190121083000 +0000" channel="LA_1">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121083000 +0000" stop="20190121100000 +0000" channel="LA_1">
+    <title lang="es">Los desayunos de TVE</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121100000 +0000" stop="20190121132500 +0000" channel="LA_1">
+    <title lang="es">La mañana de La 1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121132500 +0000" stop="20190121140000 +0000" channel="LA_1">
+    <title lang="es">Torres en la cocina: Raviolis de langostinos y shiitake. Financiers</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190121140000 +0000" stop="20190121143000 +0000" channel="LA_1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121143000 +0000" stop="20190121150000 +0000" channel="LA_1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121150000 +0000" stop="20190121160000 +0000" channel="LA_1">
+    <title lang="es">Telediario 1</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121160000 +0000" stop="20190121161500 +0000" channel="LA_1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121161500 +0000" stop="20190121162500 +0000" channel="LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121162500 +0000" stop="20190121172000 +0000" channel="LA_1">
+    <title lang="es">Servir y proteger (T3): Episodio 31</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190121172000 +0000" stop="20190121181500 +0000" channel="LA_1">
+    <title lang="es">Acacias 38 (T1): Episodio 932</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190121181500 +0000" stop="20190121184500 +0000" channel="LA_1">
+    <title lang="es">Derecho a soñar (T1): Episodio 1</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190121184500 +0000" stop="20190121194000 +0000" channel="LA_1">
+    <title lang="es">Derecho a soñar (T1): Episodio 2</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190121194000 +0000" stop="20190121203000 +0000" channel="LA_1">
+    <title lang="es">España directo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121203000 +0000" stop="20190121210000 +0000" channel="LA_1">
+    <title lang="es">Aquí la Tierra</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190121210000 +0000" stop="20190121215500 +0000" channel="LA_1">
+    <title lang="es">Telediario 2</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121215500 +0000" stop="20190121220500 +0000" channel="LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121220500 +0000" stop="20190121223500 +0000" channel="LA_1">
+    <title lang="es">Lo siguiente: Episodio 36</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121223500 +0000" stop="20190121234500 +0000" channel="LA_1">
+    <title lang="es">Hospital Valle Norte (T1): Ep.2 Segundo tiempo</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190121234500 +0000" stop="20190122003500 +0000" channel="LA_1">
+    <title lang="es">El viaje de un órgano: Raquel</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190122003500 +0000" stop="20190122020000 +0000" channel="LA_1">
+    <title lang="es">Lío en Broadway</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190122020000 +0000" stop="20190122035500 +0000" channel="LA_1">
+    <title lang="es">La noche en 24 horas</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122035500 +0000" stop="20190122060000 +0000" channel="LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122060000 +0000" stop="20190122063000 +0000" channel="LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122063000 +0000" stop="20190122083000 +0000" channel="LA_1">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122083000 +0000" stop="20190122100000 +0000" channel="LA_1">
+    <title lang="es">Los desayunos de TVE</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122100000 +0000" stop="20190122132500 +0000" channel="LA_1">
+    <title lang="es">La mañana de La 1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190122132500 +0000" stop="20190122140000 +0000" channel="LA_1">
+    <title lang="es">Torres en la cocina</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190122140000 +0000" stop="20190122143000 +0000" channel="LA_1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190122143000 +0000" stop="20190122150000 +0000" channel="LA_1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190122150000 +0000" stop="20190122160000 +0000" channel="LA_1">
+    <title lang="es">Telediario 1</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122160000 +0000" stop="20190122161500 +0000" channel="LA_1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190122161500 +0000" stop="20190122162500 +0000" channel="LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122162500 +0000" stop="20190122172000 +0000" channel="LA_1">
+    <title lang="es">Servir y proteger (T3): Episodio 32</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190122172000 +0000" stop="20190122181500 +0000" channel="LA_1">
+    <title lang="es">Acacias 38 (T1): Episodio 933</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190122181500 +0000" stop="20190122184500 +0000" channel="LA_1">
+    <title lang="es">Centro médico</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190122184500 +0000" stop="20190122192500 +0000" channel="LA_1">
+    <title lang="es">Centro médico</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190122192500 +0000" stop="20190122203000 +0000" channel="LA_1">
+    <title lang="es">España directo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122203000 +0000" stop="20190122210000 +0000" channel="LA_1">
+    <title lang="es">Aquí la Tierra</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190122210000 +0000" stop="20190122215500 +0000" channel="LA_1">
+    <title lang="es">Telediario 2</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122215500 +0000" stop="20190122220500 +0000" channel="LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122220500 +0000" stop="20190122223500 +0000" channel="LA_1">
+    <title lang="es">Lo siguiente</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190122223500 +0000" stop="20190123001500 +0000" channel="LA_1">
+    <title lang="es">Cine</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190123001500 +0000" stop="20190123015000 +0000" channel="LA_1">
+    <title lang="es">Cine</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190123015000 +0000" stop="20190123034500 +0000" channel="LA_1">
+    <title lang="es">La noche en 24 horas</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123034500 +0000" stop="20190123060000 +0000" channel="LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123060000 +0000" stop="20190123063000 +0000" channel="LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123063000 +0000" stop="20190123083000 +0000" channel="LA_1">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123083000 +0000" stop="20190123100000 +0000" channel="LA_1">
+    <title lang="es">Los desayunos de TVE</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123100000 +0000" stop="20190123132500 +0000" channel="LA_1">
+    <title lang="es">La mañana de La 1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190123132500 +0000" stop="20190123140000 +0000" channel="LA_1">
+    <title lang="es">Torres en la cocina</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190123140000 +0000" stop="20190123143000 +0000" channel="LA_1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190123143000 +0000" stop="20190123150000 +0000" channel="LA_1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190123150000 +0000" stop="20190123160000 +0000" channel="LA_1">
+    <title lang="es">Telediario 1</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123160000 +0000" stop="20190123161500 +0000" channel="LA_1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190123161500 +0000" stop="20190123162500 +0000" channel="LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123162500 +0000" stop="20190123172000 +0000" channel="LA_1">
+    <title lang="es">Servir y proteger (T3): Episodio 33</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190123172000 +0000" stop="20190123181500 +0000" channel="LA_1">
+    <title lang="es">Acacias 38 (T1): Episodio 934</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190123181500 +0000" stop="20190123192500 +0000" channel="LA_1">
+    <title lang="es">Centro médico</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190123192500 +0000" stop="20190123203000 +0000" channel="LA_1">
+    <title lang="es">España directo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123203000 +0000" stop="20190123210000 +0000" channel="LA_1">
+    <title lang="es">Aquí la Tierra</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190123210000 +0000" stop="20190123220500 +0000" channel="LA_1">
+    <title lang="es">Telediario 2</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123220500 +0000" stop="20190123223500 +0000" channel="LA_1">
+    <title lang="es">Lo siguiente</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190123223500 +0000" stop="20190124010500 +0000" channel="LA_1">
+    <title lang="es">Maestros de la Costura</title>
+    <category lang="es">Cultural/Educativo</category>
+  </programme>
+  <programme start="20190124010500 +0000" stop="20190124024500 +0000" channel="LA_1">
+    <title lang="es">Cine</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190124024500 +0000" stop="20190124044000 +0000" channel="LA_1">
+    <title lang="es">La noche en 24 horas</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124044000 +0000" stop="20190124060000 +0000" channel="LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124060000 +0000" stop="20190124063000 +0000" channel="LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124063000 +0000" stop="20190124083000 +0000" channel="LA_1">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124083000 +0000" stop="20190124100000 +0000" channel="LA_1">
+    <title lang="es">Los desayunos de TVE</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124100000 +0000" stop="20190124132500 +0000" channel="LA_1">
+    <title lang="es">La mañana de La 1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190124132500 +0000" stop="20190124140000 +0000" channel="LA_1">
+    <title lang="es">Torres en la cocina</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190124140000 +0000" stop="20190124143000 +0000" channel="LA_1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190124143000 +0000" stop="20190124150000 +0000" channel="LA_1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190124150000 +0000" stop="20190124160000 +0000" channel="LA_1">
+    <title lang="es">Telediario 1</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124160000 +0000" stop="20190124161500 +0000" channel="LA_1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190124161500 +0000" stop="20190124162500 +0000" channel="LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124162500 +0000" stop="20190124172000 +0000" channel="LA_1">
+    <title lang="es">Servir y proteger (T3): Episodio 34</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190124172000 +0000" stop="20190124181500 +0000" channel="LA_1">
+    <title lang="es">Acacias 38 (T1): Episodio 935</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190124181500 +0000" stop="20190124192500 +0000" channel="LA_1">
+    <title lang="es">Centro médico</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190124192500 +0000" stop="20190124203000 +0000" channel="LA_1">
+    <title lang="es">España directo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124203000 +0000" stop="20190124210000 +0000" channel="LA_1">
+    <title lang="es">Aquí la Tierra</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190124210000 +0000" stop="20190124220500 +0000" channel="LA_1">
+    <title lang="es">Telediario 2</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124220500 +0000" stop="20190124224000 +0000" channel="LA_1">
+    <title lang="es">Lo siguiente</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190124224000 +0000" stop="20190125001500 +0000" channel="LA_1">
+    <title lang="es">Cine</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190119060000 +0000" stop="20190119094500 +0000" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119094500 +0000" stop="20190119105000 +0000" channel="LA 1">
+    <title lang="es">Comando Actualidad: Cada vez más gordos</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119105000 +0000" stop="20190119133000 +0000" channel="LA 1">
+    <title lang="es">MasterChef Junior: Final</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190119133000 +0000" stop="20190119140000 +0000" channel="LA 1">
+    <title lang="es">Audiencia abierta</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119140000 +0000" stop="20190119143000 +0000" channel="LA 1">
+    <title lang="es">Flash Moda</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190119143000 +0000" stop="20190119150000 +0000" channel="LA 1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190119150000 +0000" stop="20190119155000 +0000" channel="LA 1">
+    <title lang="es">Telediario 1 Fin de Semana</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119155000 +0000" stop="20190119160000 +0000" channel="LA 1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119160000 +0000" stop="20190119173000 +0000" channel="LA 1">
+    <title lang="es">Un verano en Mallorca</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190119173000 +0000" stop="20190119190000 +0000" channel="LA 1">
+    <title lang="es">Boda en Hardingsholm</title>
+    <category lang="es">Telefilme</category>
+  </programme>
+  <programme start="20190119190000 +0000" stop="20190119210000 +0000" channel="LA 1">
+    <title lang="es">La decente</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190119210000 +0000" stop="20190119212500 +0000" channel="LA 1">
+    <title lang="es">Telediario 2 Fin de Semana</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119212500 +0000" stop="20190119213000 +0000" channel="LA 1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119213000 +0000" stop="20190119220500 +0000" channel="LA 1">
+    <title lang="es">Informe Semanal: Episodio 629</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119220500 +0000" stop="20190119232000 +0000" channel="LA 1">
+    <title lang="es">14 de abril: La República (T2): Ep.14 Grandes esperanzas</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190119232000 +0000" stop="20190120003000 +0000" channel="LA 1">
+    <title lang="es">14 de abril: La República (T2): Ep.15 Hacia una vida nueva</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190120003000 +0000" stop="20190120021000 +0000" channel="LA 1">
+    <title lang="es">Prim, el asesinato de la calle del Turco</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190120021000 +0000" stop="20190120033500 +0000" channel="LA 1">
+    <title lang="es">Unas vacaciones perfectas</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190120033500 +0000" stop="20190120060000 +0000" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120060000 +0000" stop="20190120093500 +0000" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120093500 +0000" stop="20190120101000 +0000" channel="LA 1">
+    <title lang="es">Arranca en verde: Ciudad Real</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190120101000 +0000" stop="20190120111000 +0000" channel="LA 1">
+    <title lang="es">Comando Actualidad: Nuevos barrios, nuevos vecinos</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120111000 +0000" stop="20190120140000 +0000" channel="LA 1">
+    <title lang="es">Maestros de la Costura: Episodio 1</title>
+    <category lang="es">Cultural/Educativo</category>
+  </programme>
+  <programme start="20190120140000 +0000" stop="20190120143000 +0000" channel="LA 1">
+    <title lang="es">Flash Moda</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190120143000 +0000" stop="20190120150000 +0000" channel="LA 1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190120150000 +0000" stop="20190120155000 +0000" channel="LA 1">
+    <title lang="es">Telediario 1 Fin de Semana</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120155000 +0000" stop="20190120160000 +0000" channel="LA 1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120160000 +0000" stop="20190120173000 +0000" channel="LA 1">
+    <title lang="es">Enemigas íntimas</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190120173000 +0000" stop="20190120190000 +0000" channel="LA 1">
+    <title lang="es">Nadando hacia la libertad</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190120190000 +0000" stop="20190120203000 +0000" channel="LA 1">
+    <title lang="es">Un misterio para Aurora Teagarden: Un diseño mortal</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190120203000 +0000" stop="20190120210000 +0000" channel="LA 1">
+    <title lang="es">Aquí la Tierra</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190120210000 +0000" stop="20190120215500 +0000" channel="LA 1">
+    <title lang="es">Telediario 2 Fin de Semana</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120215500 +0000" stop="20190120220500 +0000" channel="LA 1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120220500 +0000" stop="20190121001500 +0000" channel="LA 1">
+    <title lang="es">Operación Triunfo: Especial Eurovisión</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121001500 +0000" stop="20190121020500 +0000" channel="LA 1">
+    <title lang="es">Hitch: Especialista en ligues</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190121020500 +0000" stop="20190121033500 +0000" channel="LA 1">
+    <title lang="es">Caminos secundarios</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190121033500 +0000" stop="20190121060000 +0000" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121060000 +0000" stop="20190121063000 +0000" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121063000 +0000" stop="20190121083000 +0000" channel="LA 1">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121083000 +0000" stop="20190121100000 +0000" channel="LA 1">
+    <title lang="es">Los desayunos de TVE</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121100000 +0000" stop="20190121132500 +0000" channel="LA 1">
+    <title lang="es">La mañana de La 1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121132500 +0000" stop="20190121140000 +0000" channel="LA 1">
+    <title lang="es">Torres en la cocina: Raviolis de langostinos y shiitake. Financiers</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190121140000 +0000" stop="20190121143000 +0000" channel="LA 1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121143000 +0000" stop="20190121150000 +0000" channel="LA 1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121150000 +0000" stop="20190121160000 +0000" channel="LA 1">
+    <title lang="es">Telediario 1</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121160000 +0000" stop="20190121161500 +0000" channel="LA 1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121161500 +0000" stop="20190121162500 +0000" channel="LA 1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121162500 +0000" stop="20190121172000 +0000" channel="LA 1">
+    <title lang="es">Servir y proteger (T3): Episodio 31</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190121172000 +0000" stop="20190121181500 +0000" channel="LA 1">
+    <title lang="es">Acacias 38 (T1): Episodio 932</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190121181500 +0000" stop="20190121184500 +0000" channel="LA 1">
+    <title lang="es">Derecho a soñar (T1): Episodio 1</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190121184500 +0000" stop="20190121194000 +0000" channel="LA 1">
+    <title lang="es">Derecho a soñar (T1): Episodio 2</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190121194000 +0000" stop="20190121203000 +0000" channel="LA 1">
+    <title lang="es">España directo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121203000 +0000" stop="20190121210000 +0000" channel="LA 1">
+    <title lang="es">Aquí la Tierra</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190121210000 +0000" stop="20190121215500 +0000" channel="LA 1">
+    <title lang="es">Telediario 2</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121215500 +0000" stop="20190121220500 +0000" channel="LA 1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121220500 +0000" stop="20190121223500 +0000" channel="LA 1">
+    <title lang="es">Lo siguiente: Episodio 36</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121223500 +0000" stop="20190121234500 +0000" channel="LA 1">
+    <title lang="es">Hospital Valle Norte (T1): Ep.2 Segundo tiempo</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190121234500 +0000" stop="20190122003500 +0000" channel="LA 1">
+    <title lang="es">El viaje de un órgano: Raquel</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190122003500 +0000" stop="20190122020000 +0000" channel="LA 1">
+    <title lang="es">Lío en Broadway</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190122020000 +0000" stop="20190122035500 +0000" channel="LA 1">
+    <title lang="es">La noche en 24 horas</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122035500 +0000" stop="20190122060000 +0000" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122060000 +0000" stop="20190122063000 +0000" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122063000 +0000" stop="20190122083000 +0000" channel="LA 1">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122083000 +0000" stop="20190122100000 +0000" channel="LA 1">
+    <title lang="es">Los desayunos de TVE</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122100000 +0000" stop="20190122132500 +0000" channel="LA 1">
+    <title lang="es">La mañana de La 1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190122132500 +0000" stop="20190122140000 +0000" channel="LA 1">
+    <title lang="es">Torres en la cocina</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190122140000 +0000" stop="20190122143000 +0000" channel="LA 1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190122143000 +0000" stop="20190122150000 +0000" channel="LA 1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190122150000 +0000" stop="20190122160000 +0000" channel="LA 1">
+    <title lang="es">Telediario 1</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122160000 +0000" stop="20190122161500 +0000" channel="LA 1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190122161500 +0000" stop="20190122162500 +0000" channel="LA 1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122162500 +0000" stop="20190122172000 +0000" channel="LA 1">
+    <title lang="es">Servir y proteger (T3): Episodio 32</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190122172000 +0000" stop="20190122181500 +0000" channel="LA 1">
+    <title lang="es">Acacias 38 (T1): Episodio 933</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190122181500 +0000" stop="20190122184500 +0000" channel="LA 1">
+    <title lang="es">Centro médico</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190122184500 +0000" stop="20190122192500 +0000" channel="LA 1">
+    <title lang="es">Centro médico</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190122192500 +0000" stop="20190122203000 +0000" channel="LA 1">
+    <title lang="es">España directo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122203000 +0000" stop="20190122210000 +0000" channel="LA 1">
+    <title lang="es">Aquí la Tierra</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190122210000 +0000" stop="20190122215500 +0000" channel="LA 1">
+    <title lang="es">Telediario 2</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122215500 +0000" stop="20190122220500 +0000" channel="LA 1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122220500 +0000" stop="20190122223500 +0000" channel="LA 1">
+    <title lang="es">Lo siguiente</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190122223500 +0000" stop="20190123001500 +0000" channel="LA 1">
+    <title lang="es">Cine</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190123001500 +0000" stop="20190123015000 +0000" channel="LA 1">
+    <title lang="es">Cine</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190123015000 +0000" stop="20190123034500 +0000" channel="LA 1">
+    <title lang="es">La noche en 24 horas</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123034500 +0000" stop="20190123060000 +0000" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123060000 +0000" stop="20190123063000 +0000" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123063000 +0000" stop="20190123083000 +0000" channel="LA 1">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123083000 +0000" stop="20190123100000 +0000" channel="LA 1">
+    <title lang="es">Los desayunos de TVE</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123100000 +0000" stop="20190123132500 +0000" channel="LA 1">
+    <title lang="es">La mañana de La 1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190123132500 +0000" stop="20190123140000 +0000" channel="LA 1">
+    <title lang="es">Torres en la cocina</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190123140000 +0000" stop="20190123143000 +0000" channel="LA 1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190123143000 +0000" stop="20190123150000 +0000" channel="LA 1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190123150000 +0000" stop="20190123160000 +0000" channel="LA 1">
+    <title lang="es">Telediario 1</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123160000 +0000" stop="20190123161500 +0000" channel="LA 1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190123161500 +0000" stop="20190123162500 +0000" channel="LA 1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123162500 +0000" stop="20190123172000 +0000" channel="LA 1">
+    <title lang="es">Servir y proteger (T3): Episodio 33</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190123172000 +0000" stop="20190123181500 +0000" channel="LA 1">
+    <title lang="es">Acacias 38 (T1): Episodio 934</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190123181500 +0000" stop="20190123192500 +0000" channel="LA 1">
+    <title lang="es">Centro médico</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190123192500 +0000" stop="20190123203000 +0000" channel="LA 1">
+    <title lang="es">España directo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123203000 +0000" stop="20190123210000 +0000" channel="LA 1">
+    <title lang="es">Aquí la Tierra</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190123210000 +0000" stop="20190123220500 +0000" channel="LA 1">
+    <title lang="es">Telediario 2</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123220500 +0000" stop="20190123223500 +0000" channel="LA 1">
+    <title lang="es">Lo siguiente</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190123223500 +0000" stop="20190124010500 +0000" channel="LA 1">
+    <title lang="es">Maestros de la Costura</title>
+    <category lang="es">Cultural/Educativo</category>
+  </programme>
+  <programme start="20190124010500 +0000" stop="20190124024500 +0000" channel="LA 1">
+    <title lang="es">Cine</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190124024500 +0000" stop="20190124044000 +0000" channel="LA 1">
+    <title lang="es">La noche en 24 horas</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124044000 +0000" stop="20190124060000 +0000" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124060000 +0000" stop="20190124063000 +0000" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124063000 +0000" stop="20190124083000 +0000" channel="LA 1">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124083000 +0000" stop="20190124100000 +0000" channel="LA 1">
+    <title lang="es">Los desayunos de TVE</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124100000 +0000" stop="20190124132500 +0000" channel="LA 1">
+    <title lang="es">La mañana de La 1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190124132500 +0000" stop="20190124140000 +0000" channel="LA 1">
+    <title lang="es">Torres en la cocina</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190124140000 +0000" stop="20190124143000 +0000" channel="LA 1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190124143000 +0000" stop="20190124150000 +0000" channel="LA 1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190124150000 +0000" stop="20190124160000 +0000" channel="LA 1">
+    <title lang="es">Telediario 1</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124160000 +0000" stop="20190124161500 +0000" channel="LA 1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190124161500 +0000" stop="20190124162500 +0000" channel="LA 1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124162500 +0000" stop="20190124172000 +0000" channel="LA 1">
+    <title lang="es">Servir y proteger (T3): Episodio 34</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190124172000 +0000" stop="20190124181500 +0000" channel="LA 1">
+    <title lang="es">Acacias 38 (T1): Episodio 935</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190124181500 +0000" stop="20190124192500 +0000" channel="LA 1">
+    <title lang="es">Centro médico</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190124192500 +0000" stop="20190124203000 +0000" channel="LA 1">
+    <title lang="es">España directo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124203000 +0000" stop="20190124210000 +0000" channel="LA 1">
+    <title lang="es">Aquí la Tierra</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190124210000 +0000" stop="20190124220500 +0000" channel="LA 1">
+    <title lang="es">Telediario 2</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124220500 +0000" stop="20190124224000 +0000" channel="LA 1">
+    <title lang="es">Lo siguiente</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190124224000 +0000" stop="20190125001500 +0000" channel="LA 1">
+    <title lang="es">Cine</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190119060000 +0000" stop="20190119094500 +0000" channel="ES:LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119094500 +0000" stop="20190119105000 +0000" channel="ES:LA_1">
+    <title lang="es">Comando Actualidad: Cada vez más gordos</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119105000 +0000" stop="20190119133000 +0000" channel="ES:LA_1">
+    <title lang="es">MasterChef Junior: Final</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190119133000 +0000" stop="20190119140000 +0000" channel="ES:LA_1">
+    <title lang="es">Audiencia abierta</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119140000 +0000" stop="20190119143000 +0000" channel="ES:LA_1">
+    <title lang="es">Flash Moda</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190119143000 +0000" stop="20190119150000 +0000" channel="ES:LA_1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190119150000 +0000" stop="20190119155000 +0000" channel="ES:LA_1">
+    <title lang="es">Telediario 1 Fin de Semana</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119155000 +0000" stop="20190119160000 +0000" channel="ES:LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119160000 +0000" stop="20190119173000 +0000" channel="ES:LA_1">
+    <title lang="es">Un verano en Mallorca</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190119173000 +0000" stop="20190119190000 +0000" channel="ES:LA_1">
+    <title lang="es">Boda en Hardingsholm</title>
+    <category lang="es">Telefilme</category>
+  </programme>
+  <programme start="20190119190000 +0000" stop="20190119210000 +0000" channel="ES:LA_1">
+    <title lang="es">La decente</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190119210000 +0000" stop="20190119212500 +0000" channel="ES:LA_1">
+    <title lang="es">Telediario 2 Fin de Semana</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119212500 +0000" stop="20190119213000 +0000" channel="ES:LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119213000 +0000" stop="20190119220500 +0000" channel="ES:LA_1">
+    <title lang="es">Informe Semanal: Episodio 629</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190119220500 +0000" stop="20190119232000 +0000" channel="ES:LA_1">
+    <title lang="es">14 de abril: La República (T2): Ep.14 Grandes esperanzas</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190119232000 +0000" stop="20190120003000 +0000" channel="ES:LA_1">
+    <title lang="es">14 de abril: La República (T2): Ep.15 Hacia una vida nueva</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190120003000 +0000" stop="20190120021000 +0000" channel="ES:LA_1">
+    <title lang="es">Prim, el asesinato de la calle del Turco</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190120021000 +0000" stop="20190120033500 +0000" channel="ES:LA_1">
+    <title lang="es">Unas vacaciones perfectas</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190120033500 +0000" stop="20190120060000 +0000" channel="ES:LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120060000 +0000" stop="20190120093500 +0000" channel="ES:LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120093500 +0000" stop="20190120101000 +0000" channel="ES:LA_1">
+    <title lang="es">Arranca en verde: Ciudad Real</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190120101000 +0000" stop="20190120111000 +0000" channel="ES:LA_1">
+    <title lang="es">Comando Actualidad: Nuevos barrios, nuevos vecinos</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120111000 +0000" stop="20190120140000 +0000" channel="ES:LA_1">
+    <title lang="es">Maestros de la Costura: Episodio 1</title>
+    <category lang="es">Cultural/Educativo</category>
+  </programme>
+  <programme start="20190120140000 +0000" stop="20190120143000 +0000" channel="ES:LA_1">
+    <title lang="es">Flash Moda</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190120143000 +0000" stop="20190120150000 +0000" channel="ES:LA_1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190120150000 +0000" stop="20190120155000 +0000" channel="ES:LA_1">
+    <title lang="es">Telediario 1 Fin de Semana</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120155000 +0000" stop="20190120160000 +0000" channel="ES:LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120160000 +0000" stop="20190120173000 +0000" channel="ES:LA_1">
+    <title lang="es">Enemigas íntimas</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190120173000 +0000" stop="20190120190000 +0000" channel="ES:LA_1">
+    <title lang="es">Nadando hacia la libertad</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190120190000 +0000" stop="20190120203000 +0000" channel="ES:LA_1">
+    <title lang="es">Un misterio para Aurora Teagarden: Un diseño mortal</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190120203000 +0000" stop="20190120210000 +0000" channel="ES:LA_1">
+    <title lang="es">Aquí la Tierra</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190120210000 +0000" stop="20190120215500 +0000" channel="ES:LA_1">
+    <title lang="es">Telediario 2 Fin de Semana</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120215500 +0000" stop="20190120220500 +0000" channel="ES:LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190120220500 +0000" stop="20190121001500 +0000" channel="ES:LA_1">
+    <title lang="es">Operación Triunfo: Especial Eurovisión</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121001500 +0000" stop="20190121020500 +0000" channel="ES:LA_1">
+    <title lang="es">Hitch: Especialista en ligues</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190121020500 +0000" stop="20190121033500 +0000" channel="ES:LA_1">
+    <title lang="es">Caminos secundarios</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190121033500 +0000" stop="20190121060000 +0000" channel="ES:LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121060000 +0000" stop="20190121063000 +0000" channel="ES:LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121063000 +0000" stop="20190121083000 +0000" channel="ES:LA_1">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121083000 +0000" stop="20190121100000 +0000" channel="ES:LA_1">
+    <title lang="es">Los desayunos de TVE</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121100000 +0000" stop="20190121132500 +0000" channel="ES:LA_1">
+    <title lang="es">La mañana de La 1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121132500 +0000" stop="20190121140000 +0000" channel="ES:LA_1">
+    <title lang="es">Torres en la cocina: Raviolis de langostinos y shiitake. Financiers</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190121140000 +0000" stop="20190121143000 +0000" channel="ES:LA_1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121143000 +0000" stop="20190121150000 +0000" channel="ES:LA_1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121150000 +0000" stop="20190121160000 +0000" channel="ES:LA_1">
+    <title lang="es">Telediario 1</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121160000 +0000" stop="20190121161500 +0000" channel="ES:LA_1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121161500 +0000" stop="20190121162500 +0000" channel="ES:LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121162500 +0000" stop="20190121172000 +0000" channel="ES:LA_1">
+    <title lang="es">Servir y proteger (T3): Episodio 31</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190121172000 +0000" stop="20190121181500 +0000" channel="ES:LA_1">
+    <title lang="es">Acacias 38 (T1): Episodio 932</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190121181500 +0000" stop="20190121184500 +0000" channel="ES:LA_1">
+    <title lang="es">Derecho a soñar (T1): Episodio 1</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190121184500 +0000" stop="20190121194000 +0000" channel="ES:LA_1">
+    <title lang="es">Derecho a soñar (T1): Episodio 2</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190121194000 +0000" stop="20190121203000 +0000" channel="ES:LA_1">
+    <title lang="es">España directo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121203000 +0000" stop="20190121210000 +0000" channel="ES:LA_1">
+    <title lang="es">Aquí la Tierra</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190121210000 +0000" stop="20190121215500 +0000" channel="ES:LA_1">
+    <title lang="es">Telediario 2</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121215500 +0000" stop="20190121220500 +0000" channel="ES:LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190121220500 +0000" stop="20190121223500 +0000" channel="ES:LA_1">
+    <title lang="es">Lo siguiente: Episodio 36</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190121223500 +0000" stop="20190121234500 +0000" channel="ES:LA_1">
+    <title lang="es">Hospital Valle Norte (T1): Ep.2 Segundo tiempo</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190121234500 +0000" stop="20190122003500 +0000" channel="ES:LA_1">
+    <title lang="es">El viaje de un órgano: Raquel</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190122003500 +0000" stop="20190122020000 +0000" channel="ES:LA_1">
+    <title lang="es">Lío en Broadway</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190122020000 +0000" stop="20190122035500 +0000" channel="ES:LA_1">
+    <title lang="es">La noche en 24 horas</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122035500 +0000" stop="20190122060000 +0000" channel="ES:LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122060000 +0000" stop="20190122063000 +0000" channel="ES:LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122063000 +0000" stop="20190122083000 +0000" channel="ES:LA_1">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122083000 +0000" stop="20190122100000 +0000" channel="ES:LA_1">
+    <title lang="es">Los desayunos de TVE</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122100000 +0000" stop="20190122132500 +0000" channel="ES:LA_1">
+    <title lang="es">La mañana de La 1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190122132500 +0000" stop="20190122140000 +0000" channel="ES:LA_1">
+    <title lang="es">Torres en la cocina</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190122140000 +0000" stop="20190122143000 +0000" channel="ES:LA_1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190122143000 +0000" stop="20190122150000 +0000" channel="ES:LA_1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190122150000 +0000" stop="20190122160000 +0000" channel="ES:LA_1">
+    <title lang="es">Telediario 1</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122160000 +0000" stop="20190122161500 +0000" channel="ES:LA_1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190122161500 +0000" stop="20190122162500 +0000" channel="ES:LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122162500 +0000" stop="20190122172000 +0000" channel="ES:LA_1">
+    <title lang="es">Servir y proteger (T3): Episodio 32</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190122172000 +0000" stop="20190122181500 +0000" channel="ES:LA_1">
+    <title lang="es">Acacias 38 (T1): Episodio 933</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190122181500 +0000" stop="20190122184500 +0000" channel="ES:LA_1">
+    <title lang="es">Centro médico</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190122184500 +0000" stop="20190122192500 +0000" channel="ES:LA_1">
+    <title lang="es">Centro médico</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190122192500 +0000" stop="20190122203000 +0000" channel="ES:LA_1">
+    <title lang="es">España directo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122203000 +0000" stop="20190122210000 +0000" channel="ES:LA_1">
+    <title lang="es">Aquí la Tierra</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190122210000 +0000" stop="20190122215500 +0000" channel="ES:LA_1">
+    <title lang="es">Telediario 2</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122215500 +0000" stop="20190122220500 +0000" channel="ES:LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190122220500 +0000" stop="20190122223500 +0000" channel="ES:LA_1">
+    <title lang="es">Lo siguiente</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190122223500 +0000" stop="20190123001500 +0000" channel="ES:LA_1">
+    <title lang="es">Cine</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190123001500 +0000" stop="20190123015000 +0000" channel="ES:LA_1">
+    <title lang="es">Cine</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190123015000 +0000" stop="20190123034500 +0000" channel="ES:LA_1">
+    <title lang="es">La noche en 24 horas</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123034500 +0000" stop="20190123060000 +0000" channel="ES:LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123060000 +0000" stop="20190123063000 +0000" channel="ES:LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123063000 +0000" stop="20190123083000 +0000" channel="ES:LA_1">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123083000 +0000" stop="20190123100000 +0000" channel="ES:LA_1">
+    <title lang="es">Los desayunos de TVE</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123100000 +0000" stop="20190123132500 +0000" channel="ES:LA_1">
+    <title lang="es">La mañana de La 1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190123132500 +0000" stop="20190123140000 +0000" channel="ES:LA_1">
+    <title lang="es">Torres en la cocina</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190123140000 +0000" stop="20190123143000 +0000" channel="ES:LA_1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190123143000 +0000" stop="20190123150000 +0000" channel="ES:LA_1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190123150000 +0000" stop="20190123160000 +0000" channel="ES:LA_1">
+    <title lang="es">Telediario 1</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123160000 +0000" stop="20190123161500 +0000" channel="ES:LA_1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190123161500 +0000" stop="20190123162500 +0000" channel="ES:LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123162500 +0000" stop="20190123172000 +0000" channel="ES:LA_1">
+    <title lang="es">Servir y proteger (T3): Episodio 33</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190123172000 +0000" stop="20190123181500 +0000" channel="ES:LA_1">
+    <title lang="es">Acacias 38 (T1): Episodio 934</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190123181500 +0000" stop="20190123192500 +0000" channel="ES:LA_1">
+    <title lang="es">Centro médico</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190123192500 +0000" stop="20190123203000 +0000" channel="ES:LA_1">
+    <title lang="es">España directo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123203000 +0000" stop="20190123210000 +0000" channel="ES:LA_1">
+    <title lang="es">Aquí la Tierra</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190123210000 +0000" stop="20190123220500 +0000" channel="ES:LA_1">
+    <title lang="es">Telediario 2</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190123220500 +0000" stop="20190123223500 +0000" channel="ES:LA_1">
+    <title lang="es">Lo siguiente</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190123223500 +0000" stop="20190124010500 +0000" channel="ES:LA_1">
+    <title lang="es">Maestros de la Costura</title>
+    <category lang="es">Cultural/Educativo</category>
+  </programme>
+  <programme start="20190124010500 +0000" stop="20190124024500 +0000" channel="ES:LA_1">
+    <title lang="es">Cine</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20190124024500 +0000" stop="20190124044000 +0000" channel="ES:LA_1">
+    <title lang="es">La noche en 24 horas</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124044000 +0000" stop="20190124060000 +0000" channel="ES:LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124060000 +0000" stop="20190124063000 +0000" channel="ES:LA_1">
+    <title lang="es">Noticias 24H</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124063000 +0000" stop="20190124083000 +0000" channel="ES:LA_1">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124083000 +0000" stop="20190124100000 +0000" channel="ES:LA_1">
+    <title lang="es">Los desayunos de TVE</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124100000 +0000" stop="20190124132500 +0000" channel="ES:LA_1">
+    <title lang="es">La mañana de La 1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190124132500 +0000" stop="20190124140000 +0000" channel="ES:LA_1">
+    <title lang="es">Torres en la cocina</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190124140000 +0000" stop="20190124143000 +0000" channel="ES:LA_1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190124143000 +0000" stop="20190124150000 +0000" channel="ES:LA_1">
+    <title lang="es">Corazón</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190124150000 +0000" stop="20190124160000 +0000" channel="ES:LA_1">
+    <title lang="es">Telediario 1</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124160000 +0000" stop="20190124161500 +0000" channel="ES:LA_1">
+    <title lang="es">Redifusión La1</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190124161500 +0000" stop="20190124162500 +0000" channel="ES:LA_1">
+    <title lang="es">El tiempo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124162500 +0000" stop="20190124172000 +0000" channel="ES:LA_1">
+    <title lang="es">Servir y proteger (T3): Episodio 34</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190124172000 +0000" stop="20190124181500 +0000" channel="ES:LA_1">
+    <title lang="es">Acacias 38 (T1): Episodio 935</title>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20190124181500 +0000" stop="20190124192500 +0000" channel="ES:LA_1">
+    <title lang="es">Centro médico</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190124192500 +0000" stop="20190124203000 +0000" channel="ES:LA_1">
+    <title lang="es">España directo</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124203000 +0000" stop="20190124210000 +0000" channel="ES:LA_1">
+    <title lang="es">Aquí la Tierra</title>
+    <category lang="es">Ocio y Aficiones</category>
+  </programme>
+  <programme start="20190124210000 +0000" stop="20190124220500 +0000" channel="ES:LA_1">
+    <title lang="es">Telediario 2</title>
+    <category lang="es">Información</category>
+  </programme>
+  <programme start="20190124220500 +0000" stop="20190124224000 +0000" channel="ES:LA_1">
+    <title lang="es">Lo siguiente</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20190124224000 +0000" stop="20190125001500 +0000" channel="ES:LA_1">
+    <title lang="es">Cine</title>
+    <category lang="es">Cine</category>
+  </programme>
+</tv>
